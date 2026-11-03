@@ -14,8 +14,6 @@ Tested on LineageOS 23.2 (Android 16):
 
 Not tested yet: stock Nothing OS, Format Data, Restore, USB-OTG, slot switching.
 
-Known issues: vibration does not work.
-
 ## Build
 
     export AERA_BUILD_DEVICE=Pong
